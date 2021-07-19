@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    3.0\n    4.0\n  output: |\n    Medida do Cateto 1? Medida do Cateto 2? Medida da Hipotenusa: 5.00\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Calculando a Hipotenusa\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5218226067734528,
+    "index": null,
+    "user": "jose.vitor.maciel@ccc.ufcg.edu.br"
+  },
+  "iid": 5218226067734528,
+  "key": "5218226067734528",
+  "site": "prog1",
+  "user": "jose.vitor.maciel@ccc.ufcg.edu.br"
+}
