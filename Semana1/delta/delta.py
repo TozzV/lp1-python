@@ -10,4 +10,4 @@ c =  float(input())
 
 delta = (b ** 2)  - (4 * a * c)
 
-print(delta)
+print(f'{delta:.1f}')
