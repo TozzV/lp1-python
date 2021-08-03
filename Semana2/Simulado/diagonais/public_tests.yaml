@@ -1,0 +1,16 @@
+#- type: script
+#  name: design tests
+#  script: python design_tests.py {}
+
+- input: |
+    3
+  name: triangulo
+  output: |
+    3 lados => 0 diagonais
+
+- input: |
+    4
+  name: quadrado
+  output: |
+    4 lados => 2 diagonais
+# public file

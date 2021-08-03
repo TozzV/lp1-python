@@ -1,0 +1,14 @@
+- input: |
+    80
+    100
+  name: exemplo
+  output: |
+    R$ 432.0
+
+- input: |
+    80
+    50.5
+  name: exemplo2
+  output: |
+    R$ 313.2
+    
