@@ -2,13 +2,6 @@
     4
     9.27
   output: |
-    Unidade? 
+    Unidade? Média de aprovação na unidade? 
     O aluno vai para a unidade 5 com média 9.3.
 
-- input: |
-    10
-    9.9
-  output: |
-    Unidade? 
-    O aluno vai para a unidade 11 com média 9.9.
-    
