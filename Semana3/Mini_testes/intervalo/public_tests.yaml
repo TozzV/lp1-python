@@ -1,0 +1,20 @@
+- input: |
+    15
+    25
+    7
+  output: |
+    antes
+
+- input: |
+    15
+    25
+    21
+  output: |
+    dentro
+
+- input: |
+    15
+    25
+    44
+  output: |
+    depois
