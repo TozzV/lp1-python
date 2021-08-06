@@ -1,0 +1,11 @@
+- input: |
+    Vitor
+    500.00
+  output: |
+    O valor da comissão para o(a) vendedor(a) Vitor é R$ 15.00.
+
+- input: |
+    Barbosa
+    950
+  output: |
+    O valor da comissão para o(a) vendedor(a) Barbosa é R$ 28.50.
