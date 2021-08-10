@@ -4,8 +4,8 @@
 # Atividade-titulo: Área do cilindro 
 # Objetivo do código: 
 
-diametro = float(input())
-altura = float(input())
+diametro = float(input('Medida do diâmetro '))
+altura = float(input('Medida da altura? '))
 
 raio = diametro / 2 
 area_base = 3.141592653589793 * ( raio ** 2 )
@@ -17,7 +17,7 @@ area_cilindro = (area_base * 2) + area_lateral_cilindro
 
 print("Cálculo da Superfície de um Cilindro")
 print("---")
-print(f'Medida do diâmetro? {diametro:.1f}')
-print(f'Medida da altura? {altura:.1f}')
+print(f'Medida do diâmetro? {diametro:.2f}')
+print(f'Medida da altura? {altura:.2f}')
 print("---")
 print(f'Área calculada: {area_cilindro:.2f}')
