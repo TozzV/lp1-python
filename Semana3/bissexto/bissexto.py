@@ -1,11 +1,15 @@
+# Universidade Federal de Campina Grande
+# Bacharelado em ciências da computação - 2020.2e
+# Aluno: José Vitor Barbosa Maciel - Matrícula: 120210954
+# Atividade-titulo: Ano bissexto
+# Objetivo do código: Descobrir se um ano é bissexto
+
 ano = int(input())
 
-bissexto = ( (ano / 400) * 10 ) == (( ano / 4 ) / 10)
-nao_bissexto = ( ano / 100 ) != bissexto
-
-if bissexto:
-    print(f'{ano} é bissexto')
-elif nao_bissexto:
-    print(f'{ano} não é bissexto')
-else: 
-    print(f'{ano} não é bissexto')
+if ano % 4 == 0:
+    if ano % 400 == ano % 100:
+        print(f'{ano} é bissexto')
+    else: 
+        print(f'{ano} não é bissexto')
+else:
+    print(f'{ano} não é bissexto')  

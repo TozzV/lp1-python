@@ -8,3 +8,15 @@
   output: |
     2011 não é bissexto
 
+- input: |
+    5000
+  output: |
+    5000 não é bissexto
+
+- input: |
+    100
+  output: |
+    100 não é bissexto
+
+
+
