@@ -1,0 +1,32 @@
+- input: |
+    10,20,30,40,50,60,70,80,90,100,110,120
+  output: |
+    Produção Média Bimestral
+
+    bimestre 1: 15.0
+    bimestre 2: 35.0
+    bimestre 3: 55.0
+    bimestre 4: 75.0
+    bimestre 5: 95.0
+    bimestre 6: 115.0
+
+    bimestre(s) em queda:
+    nenhum
+
+- input: |
+    20,100,30,200,200,20,100,150,50,120,80,300
+  output: |
+    Produção Média Bimestral
+
+    bimestre 1: 60.0
+    bimestre 2: 115.0
+    bimestre 3: 110.0
+    bimestre 4: 125.0
+    bimestre 5: 85.0
+    bimestre 6: 190.0
+
+    bimestre(s) em queda:
+    3
+    5
+
+

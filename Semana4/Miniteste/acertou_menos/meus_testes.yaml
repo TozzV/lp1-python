@@ -1,0 +1,20 @@
+- input: |
+    1
+    ......f
+  output: |
+    O aluno 1 errou 1 teste(s).
+- input: |
+    10
+    .
+    ..
+    ...
+    ....
+    .....
+    fffff
+    ffff
+    fff
+    ff
+    f
+  output: |
+    O aluno 6 errou 5 teste(s).
+    

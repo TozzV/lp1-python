@@ -1,0 +1,6 @@
+- input: |
+    MXV1234 MOW4321 MMV8062
+  output: |
+    MXV1234: abril
+    MOW4321: janeiro
+    MMV8062: fevereiro

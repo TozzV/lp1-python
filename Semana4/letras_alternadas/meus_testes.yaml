@@ -1,0 +1,12 @@
+- input: |
+    Jacinto Pinto
+  output: |
+    JcnoPno
+- input: |
+    Joé vitor
+  output: |
+    Jévtr
+- input: |
+    v_i_t_o_r
+  output: |
+    vitor

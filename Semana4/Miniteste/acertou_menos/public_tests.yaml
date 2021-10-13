@@ -1,0 +1,17 @@
+- input: |
+    4
+    ......f
+    ..fffff
+    ....fff
+    ..ff...
+  name: publico
+  output: |
+    O aluno 2 errou 5 teste(s).
+
+- input: |
+    2
+    *f
+    ..
+  name: similar
+  output: |
+    O aluno 1 errou 2 teste(s).
