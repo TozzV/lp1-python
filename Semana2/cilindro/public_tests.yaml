@@ -1,9 +1,22 @@
- input: |
+- input: |
     2.5
     6.0
   output: |
     Cálculo da Superfície de um Cilindro
     ---
-    Medida do diâmetro? Medida da altura? ---
+    Medida do diâmetro? 2.5
+    Medida da altura? 6.0
+    ---
     Área calculada: 56.94
-    
+
+- input: |
+    20.0
+    11.279
+  output: |
+    Cálculo da Superfície de um Cilindro
+    ---
+    Medida do diâmetro? 20.0
+    Medida da altura? 11.3
+    ---
+    Área calculada: 1337.00
+
