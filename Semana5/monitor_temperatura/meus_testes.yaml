@@ -1,0 +1,8 @@
+- input: |
+    9.8
+
+  output: |
+    Temperatura inadequada! 9.80.
+    0 medições lidas dentro do padrão.
+    Média = 0.00.
+  

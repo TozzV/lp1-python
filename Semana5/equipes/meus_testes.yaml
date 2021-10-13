@@ -1,0 +1,47 @@
+- input: |
+    Vitor Barbosa
+    Augusto
+    Cristiano
+    Guilherme
+    Hettshelmeir
+    Almir 
+    Junior
+    Kaio
+    Luci
+    Marina
+    João
+    -
+  output: |
+    Modalidade -> Futebol
+
+- input: |
+    Vitor Barbosa
+    Augusto
+    Cristiano
+    Guilherme
+    -
+  output: |
+    Equipe Inválida
+
+- input: |
+    Vitor Barbosa
+    Augusto
+    Cristiano
+    Guilherme
+    Hettshelmeir
+    Almir 
+    Junior
+    -
+  output: |
+    Modalidade -> Handebol
+- input: |
+    Vitor Barbosa
+    Augusto
+    Cristiano
+    Guilherme
+    Pedro
+    Tati
+    -
+  output: |
+    Modalidade -> Vôlei
+    
