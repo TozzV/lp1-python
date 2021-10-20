@@ -1,0 +1,13 @@
+- input: |
+    R A13337
+    R A00001
+    P A
+    R B
+    R B
+    P B
+    S
+  output: |
+    2
+    2
+
+    
